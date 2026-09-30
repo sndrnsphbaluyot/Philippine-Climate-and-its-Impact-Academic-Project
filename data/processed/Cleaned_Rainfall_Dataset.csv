@@ -1,0 +1,551 @@
+Year,Monitoring Station,Rainfall
+2023,"Tanay, Rizal",2780.4
+2015,"Surigao, Surigao Del Norte",3186.8
+2018,"Laoag City, Ilocos Norte",2506.7
+2022,"Iba, Zambales",2797.9
+2021,"Coron, Palawan",1137.3
+2021,"Baler, Aurora (Radar)",2676.9
+2023,"Sangley Point, Cavite",1834.4
+2014,"Romblon, Romblon",2217.8
+2021,"Calayan, Cagayan",3128.8
+2022,"Calayan, Cagayan",3007.1
+2018,"Sinait, Ilocos Sur (former Vigan Station)",2584.1
+2023,"NAIA (MIA), Pasay City",1948.2
+2016,"Malaybalay, Bukidnon",2566.9
+2019,"Baler, Aurora (Radar)",2521.2
+2020,"Baguio City, Benguet",2357.2
+2014,"Hinatuan, Surigao Del Sur",4643.8
+2018,"Daet, Camarines Norte",4041.7
+2018,"General Santos, South Cotabato",951.1
+2019,"Ambulong, Batangas",1494.9
+2021,"Infanta, Quezon",3540.9
+2021,"Tuguegarao, Cagayan",978.4
+2018,"Coron, Palawan",2674.7
+2014,"Aparri, Cagayan",1421.5
+2014,"Clark International Airport, Pampanga",1690.8
+2016,"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",1454.6
+2019,"Roxas City, Capiz",2052.5
+2021,"Surigao, Surigao Del Norte",4909.8
+2019,"Guiuan, Eastern Samar",1742.7
+2015,"Iba, Zambales",3201.6
+2015,"Calayan, Cagayan",2127.4
+2015,"Clark International Airport, Pampanga",2180.4
+2015,"Cubi Point, Subic Bay Olongapo City, Zambales",2162.1
+2017,"Davao City, Davao Del Sur",2671.2
+2021,"Mactan International Airport, Cebu",1801.3
+2017,"Dauis, Bohol",1876.9
+2020,"Port Area (MCO), Manila",1452.8
+2016,"Romblon, Romblon",2177.3
+2014,"Roxas City, Capiz",1928.6
+2019,"Virac Synop, Catanduanes",2173.6
+2014,"Davao City, Davao Del Sur",1954.3
+2022,"Basco, Batanes (Radar)",2782.4
+2023,"General Santos, South Cotabato",692.5
+2021,"Tacloban City, Leyte",3718.8
+2020,"Coron, Palawan",572.1
+2023,"Hinatuan, Surigao Del Sur",4378.4
+2016,"Infanta, Quezon",3604.6
+2014,"Dauis, Bohol",1754.3
+2021,"Laoag City, Ilocos Norte",1778.8
+2021,"Catarman, Northern Samar",4768.2
+2016,"Sangley Point, Cavite",1989.2
+2022,"Tuguegarao, Cagayan",2057.2
+2022,"Virac Synop, Catanduanes",3445.1
+2019,"Puerto Princesa City, Palawan",941.3
+2017,"NAIA (MIA), Pasay City",1616.5
+2017,"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2323.6
+2018,"Catarman, Northern Samar",4689.8
+2020,"Zamboanga, Zamboanga Del Sur",1345.9
+2018,"Juban, Sorsogon",5282.8
+2023,"Zamboanga, Zamboanga Del Sur",1191.6
+2017,"Basco, Batanes (Radar)",2975.4
+2016,"Dumaguete City, Negros Oriental",891
+2021,"Legazpi City, Albay",3837.8
+2015,"Cuyo, Palawan",1356.2
+2023,"Virac Synop, Catanduanes",3143.1
+2017,"Dumaguete City, Negros Oriental",1952.1
+2014,"Tanay, Rizal",2530.8
+2022,"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2215.9
+2020,"Casiguran, Aurora",4743.9
+2018,"Cabanatuan, Nueva Ecija",2120.5
+2021,"Casiguran, Aurora",3329.8
+2023,"Juban, Sorsogon",5028.2
+2019,"Calayan, Cagayan",2763.4
+2016,"Alabat, Quezon",3490.7
+2018,"Borongan, Eastern Samar",6096.2
+2016,"Laoag City, Ilocos Norte",2321.1
+2023,"Coron, Palawan",2281
+2015,"Tanay, Rizal",2211.7
+2017,"Cotabato City, Maguindanao",2199.9
+2023,"Maasin, Southern Leyte",3336.5
+2023,"Guiuan, Eastern Samar",3412.9
+2016,"Zamboanga, Zamboanga Del Sur",1170.1
+2021,"Tayabas, Quezon",3570.9
+2015,"Hinatuan, Surigao Del Sur",3840.6
+2019,"Itbayat, Batanes",2013.5
+2015,"Legazpi City, Albay",3006
+2014,"Catarman, Northern Samar",5121.9
+2022,"Clark International Airport, Pampanga",1942.3
+2017,"Juban, Sorsogon",4380.7
+2023,"Sinait, Ilocos Sur (former Vigan Station)",2640.9
+2017,"Ambulong, Batangas",2216
+2014,"Zamboanga, Zamboanga Del Sur",1073.6
+2016,"Cubi Point, Subic Bay Olongapo City, Zambales",4080
+2016,"Dagupan City, Pangasinan",3022.2
+2015,"Catarman, Northern Samar",2675.1
+2020,"Surigao, Surigao Del Norte",3336
+2019,"General Santos, South Cotabato",801.6
+2016,"Virac Synop, Catanduanes",3460.5
+2020,"Romblon, Romblon",3148.4
+2017,"Tanay, Rizal",2540.2
+2014,"Masbate, Masbate",2315.6
+2019,"Coron, Palawan",2955.3
+2015,"Daet, Camarines Norte",2569.9
+2014,"Dagupan City, Pangasinan",2903.2
+2014,"Tuguegarao, Cagayan",1336
+2018,"Science Garden, Quezon City",3571.4
+2019,"Mactan International Airport, Cebu",1317.6
+2019,"Daet, Camarines Norte",2325.7
+2014,"Butuan City, Agusan Del Norte",2530.4
+2016,"General Santos, South Cotabato",694.1
+2019,"Aparri, Cagayan",2939.2
+2019,"Legazpi City, Albay",2303.9
+2018,"Zamboanga, Zamboanga Del Sur",1066.8
+2021,"Cotabato City, Maguindanao",2361.7
+2015,"Alabat, Quezon",2383.6
+2022,"Surigao, Surigao Del Norte",4525.5
+2016,"Tayabas, Quezon",3164.6
+2022,"Dumaguete City, Negros Oriental",1612
+2016,"Surigao, Surigao Del Norte",2910.2
+2014,"Virac Synop, Catanduanes",3019.8
+2016,"Port Area (MCO), Manila",2123.1
+2014,"Dipolog, Zamboanga Del Norte",2320.6
+2016,"Puerto Princesa City, Palawan",1293
+2020,"Tanay, Rizal",2706.2
+2019,"Port Area (MCO), Manila",1887
+2022,"Mactan International Airport, Cebu",2227.3
+2019,"Dagupan City, Pangasinan",2139.8
+2019,"NAIA (MIA), Pasay City",1466.8
+2022,"Dagupan City, Pangasinan",2052
+2017,"San Jose, Occidental Mindoro",2055.4
+2015,"Puerto Princesa City, Palawan",1099.9
+2021,"Virac Synop, Catanduanes",4492
+2016,"Mactan International Airport, Cebu",1987.6
+2015,"Coron, Palawan",1978.2
+2018,"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",1267.4
+2016,"Calayan, Cagayan",2941.7
+2020,"Tuguegarao, Cagayan",2235.3
+2019,"Davao City, Davao Del Sur",2047.7
+2020,"Tayabas, Quezon",4496.3
+2014,"Port Area (MCO), Manila",1919.6
+2019,"Cuyo, Palawan",1794
+2015,"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",1120.4
+2016,"Science Garden, Quezon City",2518
+2022,"Ambulong, Batangas",2218.5
+2015,"Infanta, Quezon",2814.5
+2016,"Tuguegarao, Cagayan",1993.9
+2017,"General Santos, South Cotabato",1302.1
+2022,"Maasin, Southern Leyte",3890.6
+2018,"Calapan, Oriental Mindoro",1971.6
+2023,"San Jose, Occidental Mindoro",1927.4
+2017,"Calayan, Cagayan",3581.6
+2016,"San Jose, Occidental Mindoro",2335.8
+2018,"Guiuan, Eastern Samar",3758.3
+2019,"Zamboanga, Zamboanga Del Sur",757.4
+2015,"Juban, Sorsogon",2909.5
+2020,"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",1456.8
+2019,"Infanta, Quezon",2046.3
+2015,"NAIA (MIA), Pasay City",1510.5
+2014,"Surigao, Surigao Del Norte",4435
+2020,"Sinait, Ilocos Sur (former Vigan Station)",1133.4
+2021,"Malaybalay, Bukidnon",3252.1
+2014,"Laoag City, Ilocos Norte",1775.6
+2021,"Clark International Airport, Pampanga",1843.3
+2018,"Alabat, Quezon",3178.5
+2023,"Malaybalay, Bukidnon",2942.4
+2022,"Zamboanga, Zamboanga Del Sur",1785.6
+2019,"Surigao, Surigao Del Norte",2167.9
+2018,"Mactan International Airport, Cebu",1616.6
+2016,"Roxas City, Capiz",1989
+2023,"Butuan City, Agusan Del Norte",2967.3
+2014,"Science Garden, Quezon City",2666.8
+2022,"Romblon, Romblon",2167.7
+2020,"Calayan, Cagayan",2353.4
+2015,"Dauis, Bohol",1133.8
+2023,"Masbate, Masbate",2375.1
+2015,"Aparri, Cagayan",1806.6
+2021,"Daet, Camarines Norte",3754.7
+2023,"Calayan, Cagayan",3174.3
+2020,"Legazpi City, Albay",4070.1
+2023,"Dumaguete City, Negros Oriental",1452.4
+2016,"Dauis, Bohol",1302.4
+2022,"Butuan City, Agusan Del Norte",2516.9
+2017,"Dipolog, Zamboanga Del Norte",3014.9
+2017,"Daet, Camarines Norte",4324.9
+2017,"Casiguran, Aurora",5005.8
+2015,"Tuguegarao, Cagayan",1451.9
+2020,"Catbalogan, Western Samar",3121.9
+2015,"Romblon, Romblon",1744.3
+2022,"Port Area (MCO), Manila",2057.4
+2018,"Romblon, Romblon",1979.7
+2023,"Infanta, Quezon",3423.7
+2021,"Borongan, Eastern Samar",6764.1
+2023,"Dauis, Bohol",1566.4
+2015,"Science Garden, Quezon City",2602.6
+2019,"Dauis, Bohol",1152.1
+2016,"Aparri, Cagayan",2041.4
+2014,"Coron, Palawan",3079.8
+2017,"Tayabas, Quezon",4144.2
+2015,"San Jose, Occidental Mindoro",1726.1
+2015,"Dipolog, Zamboanga Del Norte",1319.8
+2016,"Baler, Aurora (Radar)",3386.7
+2017,"Borongan, Eastern Samar",5265.6
+2023,"CLSU, Nueva Ecija",1375.7
+2019,"Cotabato City, Maguindanao",1213.3
+2020,"Aparri, Cagayan",2558.3
+2014,"Alabat, Quezon",3426.5
+2022,"Sangley Point, Cavite",1955.2
+2019,"Sinait, Ilocos Sur (former Vigan Station)",2552.2
+2023,"Mactan International Airport, Cebu",1791.5
+2022,"Daet, Camarines Norte",3842.9
+2018,"Surigao, Surigao Del Norte",4120
+2020,"Tacloban City, Leyte",2726.3
+2022,"Casiguran, Aurora",4235.6
+2018,"Roxas City, Capiz",2094
+2016,"Davao City, Davao Del Sur",1510.4
+2022,"Tayabas, Quezon",4088
+2019,"Catarman, Northern Samar",2692.6
+2020,"Borongan, Eastern Samar",4083.3
+2018,"Tanay, Rizal",3093
+2023,"Romblon, Romblon",2264.9
+2022,"San Jose, Occidental Mindoro",2310.4
+2022,"Dauis, Bohol",1932.4
+2021,"Guiuan, Eastern Samar",4604.5
+2021,"NAIA (MIA), Pasay City",1449.5
+2023,"Tayabas, Quezon",3282.9
+2014,"Calapan, Oriental Mindoro",1892.1
+2021,"Iba, Zambales",3631.9
+2015,"Roxas City, Capiz",1656.5
+2016,"Clark International Airport, Pampanga",1888.5
+2016,"Catarman, Northern Samar",3615.3
+2022,"Infanta, Quezon",4111.6
+2020,"Roxas City, Capiz",2580
+2019,"Clark International Airport, Pampanga",1939.5
+2018,"Butuan City, Agusan Del Norte",2082.8
+2022,"Sinait, Ilocos Sur (former Vigan Station)",2123.7
+2018,"Tayabas, Quezon",2760.4
+2020,"Clark International Airport, Pampanga",1837.7
+2021,"San Jose, Occidental Mindoro",2272.8
+2018,"Dipolog, Zamboanga Del Norte",3155.2
+2022,"Tanay, Rizal",3289.9
+2021,"Basco, Batanes (Radar)",2803.1
+2023,"Borongan, Eastern Samar",5495.5
+2021,"Dumaguete City, Negros Oriental",1846
+2021,"Puerto Princesa City, Palawan",1917.9
+2021,"Zamboanga, Zamboanga Del Sur",1085.6
+2023,"Cotabato City, Maguindanao",1905
+2015,"Guiuan, Eastern Samar",2003.6
+2021,"Aparri, Cagayan",1526.8
+2018,"Legazpi City, Albay",4033.7
+2020,"Maasin, Southern Leyte",2414.4
+2016,"Calapan, Oriental Mindoro",2165.9
+2021,"Masbate, Masbate",2231.5
+2014,"Cotabato City, Maguindanao",1883.2
+2016,"Baguio City, Benguet",2942.5
+2017,"Virac Synop, Catanduanes",3371.3
+2022,"Tacloban City, Leyte",3346.8
+2020,"Dauis, Bohol",1316.5
+2022,"General Santos, South Cotabato",794.9
+2019,"Tayabas, Quezon",2330.4
+2021,"Maasin, Southern Leyte",2668.4
+2014,"Dumaguete City, Negros Oriental",2036
+2022,"Catbalogan, Western Samar",3510.3
+2022,"NAIA (MIA), Pasay City",1663.5
+2020,"Masbate, Masbate",1926.8
+2019,"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",844.4
+2014,"Itbayat, Batanes",1502.7
+2017,"Alabat, Quezon",4825.1
+2021,"Dipolog, Zamboanga Del Norte",3358.5
+2015,"Basco, Batanes (Radar)",1516.2
+2023,"Calapan, Oriental Mindoro",1794.3
+2018,"Cuyo, Palawan",2115.4
+2021,"Dagupan City, Pangasinan",2044.1
+2015,"Cotabato City, Maguindanao",1397.7
+2021,"Cubi Point, Subic Bay Olongapo City, Zambales",2990.1
+2017,"Surigao, Surigao Del Norte",4692
+2017,"Tuguegarao, Cagayan",1527.1
+2017,"Sangley Point, Cavite",1937.6
+2017,"Baguio City, Benguet",2741.9
+2020,"Juban, Sorsogon",4025.6
+2015,"Casiguran, Aurora",3253.2
+2021,"Tanay, Rizal",2452.3
+2019,"Hinatuan, Surigao Del Sur",3156
+2020,"Dipolog, Zamboanga Del Norte",2570.6
+2020,"Daet, Camarines Norte",3990.6
+2019,"Juban, Sorsogon",2887.3
+2023,"Dipolog, Zamboanga Del Norte",3024.2
+2019,"Romblon, Romblon",1544.9
+2014,"Sangley Point, Cavite",2102.4
+2021,"Hinatuan, Surigao Del Sur",5763.4
+2019,"Iba, Zambales",4465.2
+2017,"Mactan International Airport, Cebu",2127.7
+2017,"Catarman, Northern Samar",4176.6
+2015,"Cabanatuan, Nueva Ecija",2150.7
+2017,"Baler, Aurora (Radar)",4766.8
+2019,"Science Garden, Quezon City",2372.4
+2015,"Borongan, Eastern Samar",2765.9
+2022,"Coron, Palawan",2591.8
+2020,"Guiuan, Eastern Samar",2457.2
+2021,"Port Area (MCO), Manila",1999.5
+2017,"Clark International Airport, Pampanga",1730.8
+2017,"Hinatuan, Surigao Del Sur",5340.8
+2015,"Sinait, Ilocos Sur (former Vigan Station)",2031.9
+2023,"Aparri, Cagayan",2099.5
+2023,"Tacloban City, Leyte",3275.2
+2016,"Casiguran, Aurora",3777.9
+2016,"Juban, Sorsogon",3519.6
+2020,"NAIA (MIA), Pasay City",1112
+2023,"Dagupan City, Pangasinan",2676.2
+2018,"Malaybalay, Bukidnon",2120.8
+2022,"Laoag City, Ilocos Norte",1698.4
+2016,"Legazpi City, Albay",3145.3
+2018,"Tacloban City, Leyte",3875.2
+2017,"Cabanatuan, Nueva Ecija",1920.3
+2017,"Butuan City, Agusan Del Norte",3036.8
+2022,"Science Garden, Quezon City",2641.7
+2016,"Iba, Zambales",4716.8
+2019,"Dumaguete City, Negros Oriental",911.1
+2014,"Guiuan, Eastern Samar",3496.4
+2015,"Calapan, Oriental Mindoro",1665.7
+2020,"Dumaguete City, Negros Oriental",1528.5
+2016,"Masbate, Masbate",1817.6
+2022,"Baler, Aurora (Radar)",3676.8
+2017,"Cubi Point, Subic Bay Olongapo City, Zambales",2345.4
+2015,"Masbate, Masbate",1274.2
+2017,"Roxas City, Capiz",2768
+2017,"Coron, Palawan",2268.9
+2020,"Calapan, Oriental Mindoro",2838.3
+2021,"Roxas City, Capiz",2314
+2020,"Davao City, Davao Del Sur",1756.7
+2022,"Masbate, Masbate",1996.3
+2021,"Science Garden, Quezon City",2334.9
+2021,"General Santos, South Cotabato",1445.3
+2022,"Cotabato City, Maguindanao",2638.6
+2019,"Malaybalay, Bukidnon",1978.5
+2020,"Itbayat, Batanes",1462.2
+2023,"Surigao, Surigao Del Norte",4822.7
+2020,"Infanta, Quezon",4468.9
+2023,"Puerto Princesa City, Palawan",1656.6
+2021,"Sinait, Ilocos Sur (former Vigan Station)",1865.8
+2019,"Alabat, Quezon",1845.4
+2021,"Butuan City, Agusan Del Norte",3281.1
+2020,"Cuyo, Palawan",2381.3
+2014,"Cubi Point, Subic Bay Olongapo City, Zambales",3160.8
+2018,"Dumaguete City, Negros Oriental",1153.8
+2016,"Hinatuan, Surigao Del Sur",4117.5
+2018,"Tuguegarao, Cagayan",1233.4
+2014,"Ambulong, Batangas",1818.5
+2018,"Sangley Point, Cavite",2464.8
+2023,"Alabat, Quezon",3923.8
+2018,"Port Area (MCO), Manila",2507.4
+2020,"Laoag City, Ilocos Norte",999.6
+2017,"Port Area (MCO), Manila",2335.8
+2019,"Casiguran, Aurora",2647.4
+2014,"Mactan International Airport, Cebu",1977.2
+2018,"Cubi Point, Subic Bay Olongapo City, Zambales",4866.3
+2015,"Dagupan City, Pangasinan",2760.5
+2016,"Dipolog, Zamboanga Del Norte",2188.8
+2014,"Baler, Aurora (Radar)",2328.5
+2018,"Puerto Princesa City, Palawan",1474.7
+2014,"Cabanatuan, Nueva Ecija",1325.1
+2020,"Science Garden, Quezon City",2477.2
+2014,"Tayabas, Quezon",2939.9
+2022,"Legazpi City, Albay",4137
+2016,"Maasin, Southern Leyte",2766
+2022,"Davao City, Davao Del Sur",1642.8
+2016,"Borongan, Eastern Samar",3692.5
+2019,"Catbalogan, Western Samar",1631.7
+2016,"Daet, Camarines Norte",3792.1
+2019,"CLSU, Nueva Ecija",2005.8
+2019,"Dipolog, Zamboanga Del Norte",1377.9
+2017,"Cuyo, Palawan",2236.3
+2020,"Mactan International Airport, Cebu",1892.9
+2021,"CLSU, Nueva Ecija",1454.5
+2018,"Basco, Batanes (Radar)",2561.8
+2019,"San Jose, Occidental Mindoro",2480.8
+2017,"Masbate, Masbate",2530.6
+2017,"Catbalogan, Western Samar",3495.7
+2021,"Davao City, Davao Del Sur",2435.9
+2015,"Virac Synop, Catanduanes",2496.6
+2023,"Cuyo, Palawan",1434.8
+2023,"Clark International Airport, Pampanga",2111.5
+2014,"General Santos, South Cotabato",1129.4
+2014,"Maasin, Southern Leyte",3695.8
+2019,"Calapan, Oriental Mindoro",1550.1
+2020,"Ambulong, Batangas",1860
+2016,"Basco, Batanes (Radar)",2849.1
+2015,"Butuan City, Agusan Del Norte",1695.2
+2020,"Malaybalay, Bukidnon",2548.8
+2018,"Dagupan City, Pangasinan",3605.2
+2022,"Borongan, Eastern Samar",6396.9
+2021,"Catbalogan, Western Samar",3495.5
+2015,"Zamboanga, Zamboanga Del Sur",1094.2
+2014,"Daet, Camarines Norte",3370.8
+2017,"Dagupan City, Pangasinan",2224.4
+2014,"San Jose, Occidental Mindoro",2771
+2019,"Laoag City, Ilocos Norte",2588.1
+2021,"Alabat, Quezon",3794.1
+2021,"Itbayat, Batanes",2466.6
+2022,"Catarman, Northern Samar",4269.8
+2022,"Cubi Point, Subic Bay Olongapo City, Zambales",3195.2
+2015,"Baler, Aurora (Radar)",2690.3
+2019,"Sangley Point, Cavite",1912
+2014,"Tacloban City, Leyte",1816.9
+2017,"Laoag City, Ilocos Norte",1662.3
+2019,"Butuan City, Agusan Del Norte",1451.6
+2018,"Calayan, Cagayan",2148.4
+2017,"Romblon, Romblon",3066.7
+2023,"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",1303.5
+2014,"Casiguran, Aurora",3104.3
+2017,"Aparri, Cagayan",2267.7
+2018,"Baguio City, Benguet",5415.9
+2021,"Ambulong, Batangas",1772.3
+2017,"Sinait, Ilocos Sur (former Vigan Station)",1750.1
+2018,"Davao City, Davao Del Sur",1809.4
+2022,"Malaybalay, Bukidnon",3079.4
+2015,"Catbalogan, Western Samar",1836
+2020,"Cubi Point, Subic Bay Olongapo City, Zambales",2163.3
+2014,"Catbalogan, Western Samar",4554.1
+2023,"Iba, Zambales",4485.8
+2021,"Baguio City, Benguet",4644.5
+2023,"Davao City, Davao Del Sur",2206.7
+2018,"Catbalogan, Western Samar",3805.5
+2018,"San Jose, Occidental Mindoro",2662.3
+2015,"Port Area (MCO), Manila",1959.2
+2016,"Tacloban City, Leyte",2367
+2014,"Cuyo, Palawan",2473.4
+2021,"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2005
+2023,"Ambulong, Batangas",1756.5
+2022,"Cuyo, Palawan",2062.4
+2021,"Sangley Point, Cavite",1504.4
+2015,"Malaybalay, Bukidnon",2067.6
+2022,"Itbayat, Batanes",2046.8
+2019,"Tuguegarao, Cagayan",2005.9
+2020,"San Jose, Occidental Mindoro",2206.8
+2022,"Baguio City, Benguet",2950.7
+2020,"Sangley Point, Cavite",1776.2
+2016,"Cuyo, Palawan",2238.2
+2018,"Masbate, Masbate",2042.4
+2019,"Tanay, Rizal",2486.8
+2019,"Tacloban City, Leyte",1585.6
+2018,"Maasin, Southern Leyte",3406.7
+2019,"Baguio City, Benguet",3758.3
+2014,"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2467.3
+2018,"Clark International Airport, Pampanga",2756.9
+2018,"Baler, Aurora (Radar)",2926.9
+2023,"Daet, Camarines Norte",4673.9
+2015,"Itbayat, Batanes",1805.9
+2020,"Dagupan City, Pangasinan",1761.6
+2017,"Maasin, Southern Leyte",3645.6
+2015,"Davao City, Davao Del Sur",1494.5
+2016,"NAIA (MIA), Pasay City",1294.5
+2022,"Aparri, Cagayan",2720.6
+2016,"Sinait, Ilocos Sur (former Vigan Station)",2429.3
+2018,"Virac Synop, Catanduanes",2999.9
+2017,"Legazpi City, Albay",3844.9
+2020,"Catarman, Northern Samar",4094.6
+2019,"Borongan, Eastern Samar",2334.5
+2017,"Infanta, Quezon",5026.1
+2018,"Casiguran, Aurora",2608.2
+2023,"Catbalogan, Western Samar",3617.9
+2023,"Itbayat, Batanes",2193.4
+2022,"Guiuan, Eastern Samar",4127.1
+2015,"Sangley Point, Cavite",1734.3
+2018,"Cotabato City, Maguindanao",1927.2
+2021,"Cuyo, Palawan",1857.7
+2020,"Baler, Aurora (Radar)",4518.9
+2016,"Itbayat, Batanes",3134.7
+2019,"Cubi Point, Subic Bay Olongapo City, Zambales",4436.3
+2021,"Romblon, Romblon",2589.8
+2014,"Legazpi City, Albay",3227.2
+2018,"Infanta, Quezon",2831.8
+2017,"Tacloban City, Leyte",3874.6
+2016,"Cabanatuan, Nueva Ecija",1557.9
+2019,"Basco, Batanes (Radar)",2859
+2019,"Maasin, Southern Leyte",1818.5
+2014,"Iba, Zambales",3713.7
+2018,"NAIA (MIA), Pasay City",1482
+2023,"Baguio City, Benguet",4184
+2015,"Ambulong, Batangas",1626.7
+2021,"Juban, Sorsogon",5472.4
+2022,"Roxas City, Capiz",2626.5
+2016,"Butuan City, Agusan Del Norte",1786.7
+2016,"Coron, Palawan",3003.5
+2020,"Hinatuan, Surigao Del Sur",4371.7
+2023,"Basco, Batanes (Radar)",2300
+2020,"CLSU, Nueva Ecija",1973.7
+2022,"CLSU, Nueva Ecija",1603.6
+2021,"Calapan, Oriental Mindoro",2716.5
+2016,"Tanay, Rizal",2646.8
+2020,"Puerto Princesa City, Palawan",1260.7
+2017,"Guiuan, Eastern Samar",4084.7
+2019,"Masbate, Masbate",1738.5
+2023,"Tuguegarao, Cagayan",1473.5
+2014,"Calayan, Cagayan",1538.6
+2016,"Catbalogan, Western Samar",2144.7
+2014,"Juban, Sorsogon",4395.6
+2017,"Malaybalay, Bukidnon",3507.1
+2023,"Casiguran, Aurora",2938
+2017,"Zamboanga, Zamboanga Del Sur",1509.2
+2014,"Basco, Batanes (Radar)",1369.2
+2015,"Laoag City, Ilocos Norte",1830.8
+2014,"Infanta, Quezon",2960.3
+2015,"Tacloban City, Leyte",2267.8
+2018,"Ambulong, Batangas",2119.2
+2018,"Dauis, Bohol",1503.3
+2017,"Itbayat, Batanes",2322.1
+2020,"Virac Synop, Catanduanes",3671.6
+2014,"Malaybalay, Bukidnon",2748.9
+2022,"Hinatuan, Surigao Del Sur",6107.7
+2017,"Calapan, Oriental Mindoro",2994.4
+2023,"Laoag City, Ilocos Norte",2283.2
+2022,"Dipolog, Zamboanga Del Norte",3557.2
+2023,"Roxas City, Capiz",2086
+2016,"Cotabato City, Maguindanao",1972.5
+2015,"Maasin, Southern Leyte",2180.7
+2021,"Dauis, Bohol",2029.6
+2017,"Science Garden, Quezon City",2853.7
+2014,"NAIA (MIA), Pasay City",1736.5
+2016,"Guiuan, Eastern Samar",2447.2
+2014,"Borongan, Eastern Samar",5695.6
+2023,"Science Garden, Quezon City",3187.2
+2015,"Dumaguete City, Negros Oriental",907.2
+2020,"Alabat, Quezon",4243.6
+2023,"Cubi Point, Subic Bay Olongapo City, Zambales",4098.3
+2022,"Juban, Sorsogon",5126.4
+2020,"Basco, Batanes (Radar)",1803.7
+2018,"Hinatuan, Surigao Del Sur",3976.9
+2020,"Butuan City, Agusan Del Norte",2126.8
+2015,"Tayabas, Quezon",2359.1
+2023,"Catarman, Northern Samar",5248.5
+2016,"Ambulong, Batangas",1709.2
+2015,"Mactan International Airport, Cebu",1325.5
+2015,"Baguio City, Benguet",4902.1
+2020,"Iba, Zambales",2426.3
+2023,"Legazpi City, Albay",3982.7
+2023,"Baler, Aurora (Radar)",2645.8
+2018,"Aparri, Cagayan",1641.6
+2017,"Puerto Princesa City, Palawan",2074.2
+2018,"Iba, Zambales",4067.3
+2018,"Itbayat, Batanes",2469.6
+2015,"General Santos, South Cotabato",679.8
+2020,"Cotabato City, Maguindanao",1740.6
+2023,"Port Area (MCO), Manila",2659.8
+2022,"Alabat, Quezon",3866.6
+2020,"General Santos, South Cotabato",815
+2017,"Iba, Zambales",2513.1
+2022,"Calapan, Oriental Mindoro",2533.9
+2014,"Puerto Princesa City, Palawan",1474
+2014,"Baguio City, Benguet",2860.2
+2014,"Sinait, Ilocos Sur (former Vigan Station)",2287.4
+2022,"Puerto Princesa City, Palawan",1882.7
